@@ -1,0 +1,3 @@
+thickness(m),vp(m/s),vs(m/s),density(kg/m^3),Qp,Qs
+2,532.8,177.6,1800,2000,500
+inf,4000,2310,2600,inf,inf
