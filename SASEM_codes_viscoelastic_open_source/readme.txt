@@ -1,5 +1,5 @@
 For details of the codes, please refer to 
-    "Solutions of Rayleigh wave dispersion and attenuation in stratified viscoelastic media using a spectral-element approach" (Shi et al., 2023) 
+    "Solutions of Rayleigh wave dispersion and attenuation in stratified viscoelastic media using a spectral-element approach" (Shi et al., 2024) 
 
 1. "run_4_layered_model.m" calculates the normal modes of the 4-layered model.
 
